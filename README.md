@@ -3,7 +3,7 @@
 
 This repository is just my introductory exercise in learning how to use github.
 
-Included are 2 benchmarks that I have used for over 30 years, which I use for long baseline historical personal computer performance comparisons.
+Included are 2 benchmarks for which I have over 30 years of results, thus useful for long baseline historical personal computer performance comparisons.
 
 
 ### test items
