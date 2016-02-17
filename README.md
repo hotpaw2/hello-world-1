@@ -1,7 +1,12 @@
 # hello-world-1
 ## ReadMe
 
-This is a repository for my introductory exercise in learning to use github.
+This repository is just my introductory exercise in learning how to use github.
+
+Included are 2 benchmarks that I have used for over 30 years, which I use for long baseline historical personal computer performance comparisons.
+
+
+### test items
 
 ```c
 // this is some c code
