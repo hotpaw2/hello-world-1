@@ -1,5 +1,5 @@
-# readme
-## hello-world-1
+# hello-world-1
+## ReadMe
 
 This is a repository for my introductory exercise in learning to use github.
 
