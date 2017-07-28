@@ -15,5 +15,10 @@ int i = 0;
 
 * list item 1
 * list item 2
+* list item 3 added
 
 last line
+
+### this is a test edit
+
+// added a line to the README
